@@ -18,27 +18,27 @@ function Navbar() {
                      <li className="nav-item">
                      <a
                           className=" px-3  py-2 flex items-center text-xl  font-bold leading-snug text-green-700 hover:text-green-500 "
-                          href="#"
+                          href="mailto:stephaniembaabu@gmail.com"
                         >
-                        <MdOutlineEmail />
+                        Email <MdOutlineEmail />
                         </a>
                         
                       </li>
                       <li className="nav-item">
                      <a
                           className=" px-3  py-2 flex items-center text-xl  font-bold leading-snug text-green-700 hover:text-green-500 "
-                          href="#"
+                          href="https://www.linkedin.com/in/stephanie-wambui/"
                         >
-                        <AiOutlineLinkedin/>
+                       LinkedIn <AiOutlineLinkedin/>
                         </a>
                         
                       </li>
                       <li className="nav-item">
                      <a
                           className=" px-3  py-2 flex items-center text-xl  font-bold leading-snug text-green-700 hover:text-green-500 "
-                          href="#"
+                          href="https://github.com/Stephooooo"
                         >
-                        <AiOutlineGithub />
+                       Github <AiOutlineGithub />
                         </a>
                         
                       </li>
