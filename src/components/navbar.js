@@ -8,7 +8,7 @@ function Navbar() {
     return (
             
              
-                  <div className="ml-5 mt-5 w-full relative flex justify-between  lg-w-auto lg:static lg:block lg:justify-start">
+                  <div className="ml-5 mt-5 w-full relative flex justify-between lg-w-full lg:static lg:block lg:justify-start">
                   
                   <h1 className="  px-3 py-2 flex items-center text-xl  font-bold leading-snug text-green-700 hover:text-green-500 "
                   > Stephanie Wambui 

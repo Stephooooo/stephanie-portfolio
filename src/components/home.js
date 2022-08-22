@@ -1,9 +1,11 @@
 import React from 'react'
+import {AiOutlineLinkedin} from "react-icons/ai";
+import {AiOutlineGithub} from "react-icons/ai";
 
 
 function Home() {
   return (
-    <div className=' mt-10 ml-20 mr-20'>
+    <div className=' mt-10 '>
     <h1 className='font-extrabold text-transparent bg-clip-text bg-gradient-to-bl from-indigo-400 via-red-200 to-yellow-100 text-[45px] mb-5'> Hello I'm Stephanie, nice to meet you</h1>
     <h1 className='text-green-900 text-[20px] place-content-center pl-20 pr-20 mb-5'> I am an Frontend developer and UX designer based in Kenya. I believe in building products that offer solutions with purposeful and inclusive design.</h1>
     <a className='text-green-900 text-[20px] font-bold border-2 border-green-900'  href='https://drive.google.com/file/d/1HKPGtxlqh5p9bBA72oTlxhvslsQW-dz7/view?usp=sharing'> Download My Resume</a> 
@@ -13,7 +15,7 @@ function Home() {
   </div>
 </div>
 
-<div className=' bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100 rounded-lg h-[1900px] md:h-[1700px] lg:h-[670px] '>
+<div className=' bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100 rounded-lg h-[2010px] md:h-[1700px] lg:h-[670px] '>
 
 <br/>
 <br/>
@@ -76,7 +78,13 @@ function Home() {
 <h1 className='text-[25px] text-green-900 font-bold mb-5 pt-10'> Interested  in collaborating with me? </h1>
 <p className='text-[20px] text-green-900 mb-5'> I am always open to discuss any work or partnership opportunities</p>
 
-<a className='text-[20px] text-green-900 border-2 border-green-900'href='mailto:stephaniembaabu@gmail.com'> Send me an Email, I'll buy the Coffee!</a>
+<a className='text-[20px] text-green-900 border-2 border-green-900 'href='mailto:stephaniembaabu@gmail.com'> Send me an Email, I'll buy the Coffee!</a> <br/><br/>
+<a
+className=" text-[20px] text-green-900 border-2 border-green-900 "
+href="https://www.linkedin.com/in/stephanie-wambui/"
+>
+Let's interact on LinkedIn 
+</a>
 
 </div>
 </div>
