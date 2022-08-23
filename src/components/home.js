@@ -8,7 +8,7 @@ function Home() {
     <div className=' mt-10 '>
     <h1 className='font-extrabold text-transparent bg-clip-text bg-gradient-to-bl from-indigo-400 via-red-200 to-yellow-100 text-[45px] mb-5'> Hello I'm Stephanie, nice to meet you</h1>
     <h1 className='text-green-900 text-[20px] place-content-center pl-20 pr-20 mb-5'> I am a Frontend developer and UX designer based in Kenya. I believe in building products that offer solutions with purposeful and inclusive design.</h1>
-    <a className='text-green-900 text-[20px] font-bold border-2 border-green-900'  href='https://drive.google.com/file/d/158KCDIULpXjPcomrkNgXeFr3AvXmjZ7J/view?usp=sharing'> Download My Resume</a> 
+    <a className='text-green-900 text-[20px] font-bold border-2 border-green-900'  href='https://drive.google.com/file/d/158KCDIULpXjPcomrkNgXeFr3AvXmjZ7J/view?usp=sharing'> My Resume</a> 
     <div className="flex flex-wrap justify-center">
   <div className="w-6/12 sm:w-4/12 px-4 mb-5 mt-5 ">
     <img src="../img/me.JPG" alt="ME" class="shadow rounded-full max-w-full h-auto align-middle border-none " />
