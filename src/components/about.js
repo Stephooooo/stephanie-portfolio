@@ -18,7 +18,7 @@ function About() {
 
     <a className='text-red-400 border-b-1 border-red-400' href=' https://www.instagram.com/teesnsugar/'> Tees&Sugar </a> . </h1>
 
-<a className= ' text-black text-[20px] font-bold border-2 border-black rounded-full px-2 py-2 hover:text-red-400 hover:border-red-400'  href='https://drive.google.com/file/d/1CJOLzIt68l3ytLnom8r0tqH4uQ0XO7Xj/view?usp=sharing'> My Resume</a> 
+<a className= ' text-black text-[20px] font-bold border-2 border-black rounded-full px-2 py-2 hover:text-red-400 hover:border-red-400'  href='https://drive.google.com/file/d/1PHIvagyP-8SMspWapyGbJOfL9b2TxlgQ/view?usp=share_link'> My Resume</a> 
 </div>
 
     <div> 
