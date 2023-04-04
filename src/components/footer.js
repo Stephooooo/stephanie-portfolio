@@ -4,7 +4,7 @@ import {BsCircleFill} from 'react-icons/bs'
 
 function Footer() {
   return (
-    <div>
+    <div className='mb-10'>
     <div className='border-t-4 border-black  md:h-[400px] lg:h-[250px] mt-10 ' > 
     <h1 className='text-[25px] text-black font-bold mb-5 pt-10 text-justify flex gap-4'> <BsCircleFill className='text-red-400'/> Contacts </h1>
     

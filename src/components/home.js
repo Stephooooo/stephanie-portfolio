@@ -8,7 +8,7 @@ import {BsCircleFill} from 'react-icons/bs'
 
 function Home() {
   return (
- <div className='px-10'> 
+ <div className='px-5'> 
  <Navbar/>
     <div className='md:columns-1 lg:columns-2'>
 

@@ -6,7 +6,7 @@ import {BsCircleFill} from 'react-icons/bs'
 
 function About() {
   return (
-    <div className='px-10'>
+    <div className='px-5'>
     <Navbar/>
     <div> 
 
