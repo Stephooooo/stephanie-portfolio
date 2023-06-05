@@ -30,12 +30,12 @@ function Home() {
 <div id="projects" className='font-bold text-black text-[25px] mt-10 text-justify flex gap-4'> <BsCircleFill className='text-red-400'/> Recent Projects</div>
 
 <div className='columns-1 md:columns-1 lg:columns-2 mb-5 mt-10 ' >
-<img src='../img/todo1.png' alt='#'/> 
+<img src='../img/insuarance.jpg' alt='#'/> 
 <br/>
 <br/>
 <br/>
-<a className='font-bold text-black text-[20px] mt-5'> Todo App <span className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> Full Stack Web Application </span></a>
-<p className=' text-black text-[20px] mt-5 text-justify'> This Todo Application is built under the Eisenhower matrix task management tool that helps one to organize and prioritize tasks by urgency and importance. </p>
+<a className='font-bold text-black text-[20px] mt-5'> Insuarance Brokerage system <span className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> UI/UX Design </span></a>
+<p className=' text-black text-[20px] mt-5 text-justify'> This is a web application that lists all insuarance products from various companies to be able to compare prices and benefits. Consumers can also apply for a product online to ease paperwork. </p>
 </div>
 
 <div className='columns-1 md:columns-1 lg:columns-2 mb-5 mt-10' >
@@ -51,7 +51,7 @@ function Home() {
 </div>
 
 <div className='columns-1 md:columns-1 lg:columns-2'>
-<img src='../img/werabanner.png' alt='#' /> 
+<img src='../img/wera.jpg' alt='#' /> 
 <br/>
 <br/>
 <br/>
