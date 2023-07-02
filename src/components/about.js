@@ -22,7 +22,7 @@ function About() {
 </div>
 
     <div> 
-    <h1 className='font-extrabold text-black text-[25px] text-justify flex gap-4 mb-5'> <BsCircleFill className='text-red-400'/> My Skills  </h1>
+    <h1 className='font-extrabold text-black text-[25px] text-justify flex gap-4 mb-5'> <BsCircleFill className='text-red-400 animate-pulse'/> My Skills  </h1>
 
 <div > 
 
@@ -32,7 +32,7 @@ function About() {
   <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> UX research </h1> 
   <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> Sprint planning </h1> 
 
-<h1 className='text-black text-[20px] font-bold mt-5' > Full Stack Development</h1> 
+<h1 className='text-black text-[20px] font-bold mt-5 mb-5' > Full Stack Development</h1> 
 <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> HTML </h1>
  <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> CSS </h1>
   <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> JavaScript </h1> 
@@ -40,7 +40,7 @@ function About() {
   <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> NodeJS </h1> 
   <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> REST APIs</h1> 
 
-<h1 className='text-black text-[20px] font-bold mt-5 ' > Graphic design and Content Creation</h1> 
+<h1 className='text-black text-[20px] font-bold mt-5 mb-5' > Graphic design and Content Creation</h1> 
 <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> Figma </h1>
  <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> Canva </h1>
   <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> Adobe Creative Suite </h1> 
