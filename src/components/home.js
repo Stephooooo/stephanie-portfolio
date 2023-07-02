@@ -16,7 +16,7 @@ function Home() {
     <h1 className='font-extrabold text-justify text-black text-[50px] mb-5 md:mt-5 lg:mt-20'> Hello I'm Stephanie </h1>
     <h1 className='text-black text-[20px] mb-5  text-justify'> I am a Software developer and UI/UX and graphic designer based in Kenya. I believe in building solution based products with purposeful and inclusive design.</h1> 
 
-    <div className='border-2 border-red-400 rounded-full bg-red-400 bg-opacity-30 mt-2 px-6 py-2 '> 
+    <div className='border-2 border-red-400 rounded-lg bg-red-400 bg-opacity-30 mt-2 px-6 py-2 '> 
     <h1 className='text-[20px] text-black text-justify '> I am currently doing a challenge! 100 days of UI component design by <span> <a href='https://www.dailyui.co/' className='text-red-400'> Daily UI</a></span>. Follow my designs on my <span> <a className='text-red-400' href='https://dribbble.com/StephanieMbaabu'> Dribble profile</a></span> .</h1>
     </div>
    
@@ -71,7 +71,6 @@ function Home() {
 
 <div className='columns-1 md:columns-1 lg:columns-2'>
 <img src='../img/tees.jpg' className='rounded-md mt-5 mb-5 items-center'/>
-<br/>
 <br/>
 <br/>
 <br/>
