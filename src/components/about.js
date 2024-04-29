@@ -6,11 +6,11 @@ import {BsCircleFill} from 'react-icons/bs'
 
 function About() {
   return (
-    <div className='px-5'>
+    <div className='px-5 bg-grey-100'>
     <Navbar/>
     <div> 
 
-    <div className='mb-10'>
+    <div className='mb-10 bg-grey-100'>
     <h1 className='font-extrabold text-justify text-black text-[50px] mb-5 md:mt-5 lg:mt-20'> Hello again ! </h1>
     <h1 className='text-black text-[20px] mb-5  text-justify'> 
     I was born and raised in Nairobi, Kenya. After graduating from Strathmore University with a Diploma in International Relations,
@@ -40,12 +40,20 @@ function About() {
   <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> NodeJS </h1> 
   <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> REST APIs</h1> 
 
+  
+  <h1 className='text-black text-[20px] font-bold mt-5 mb-5' > CMS Intergration and Theme Development </h1> 
+<h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> Wordpress </h1>
+ <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> PHP </h1>
+  <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> Elementor </h1> 
+
+
 <h1 className='text-black text-[20px] font-bold mt-5 mb-5' > Graphic design and Content Creation</h1> 
 <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> Figma </h1>
  <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> Canva </h1>
   <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> Adobe Creative Suite </h1> 
   <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> SEO </h1> 
   <h1 className='font-normal text-[15px] bg-red-100 rounded-full px-1 py-1'> Social Media Marketing </h1> 
+
 
 </div>
 </div>
