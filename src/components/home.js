@@ -24,7 +24,7 @@ function Home() {
 
 <div className="flex flex-wrap justify-center">
 <div className="px-4 mb-5 mt-5 ">
-  <img src="../img/me3.png" alt="Stephanie Wambui Mbaabu" className=" max-w-full h-auto align-middle border-none " />
+  <img src="../img/me1.png" alt="Stephanie Wambui Mbaabu" className=" max-w-full h-auto align-middle border-none " />
 </div>
 </div>
 </div>
